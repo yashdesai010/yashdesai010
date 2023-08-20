@@ -20,13 +20,6 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-<!-- Joke Card -->
-<div align="center">
-  <h3>😄 Just for Fun</h3>
-  <p>Why did the developer go broke?</p>
-  <p>Because he used up all his cache!</p>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Developer Humor" width="300"/>
-</div>
 
 <!---
 yashdesai010/yashdesai010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
